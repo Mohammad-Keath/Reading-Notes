@@ -6,3 +6,7 @@
    3. everything that happens in Node is in reaction to an event but it is not totally positive because in this way you are not allowed to have any error.
    4. you can use Node.js to build a real-time interaction forms like API and cross-platform desktop apps and create robots.
    5. some advantages are to work in the same language in all features, speed and light language.
+   6. ## Things I want to know more about
+        how can I make a desktop apps and creating robots.
+   7. I am looking forword to learn more about Redux
+   8. the learning goals of the TDD lecture is to make a test to make sure your code is working perfectly
