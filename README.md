@@ -6,7 +6,6 @@
    3. everything that happens in Node is in reaction to an event but it is not totally positive because in this way you are not allowed to have any error.
    4. you can use Node.js to build a real-time interaction forms like API and cross-platform desktop apps and create robots.
    5. some advantages are to work in the same language in all features, speed and light language.
-   6.  I want to know more about how can I make a desktop apps and creating robots.
    7. I am looking forword to learn more about Redux
    8. the learning goals of the TDD lecture is to make a test to make sure your code is working perfectly
 - ## Express   .  [<sub>    Reference </sub>](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
@@ -36,5 +35,17 @@
   
 - ## CI/CD   .  [<sub>    Reference </sub>](https://www.youtube.com/watch?v=k2aNsQKwyOo)
     1. #### What are three benefits of Continuous Integration?
-    2. #### What is the difference between Continuos Delivery and Continuous Deployment?
-    3. #### Explain how GitHub fits into this process assuming the listener comes from a non-technical background
+        - it will make you sure about what you have done every day or frequantly
+        - and also it shorten the time needed for the final test step
+        - and it makes merging process easier and with less problems 
+    3. #### What is the difference between Continuos Delivery and Continuous Deployment?
+        - Continuos Delivery is a checked program which is ready to deploy
+        - Continuous Deployment is a deployed program that is automatically deployed when it changes
+    5. #### Explain how GitHub fits into this process assuming the listener comes from a non-technical background
+        - when you are working on a project so you have to check every step to make sure that you are working in a right way that called CI which is in github the dev that wont let you merge if it has any wrong test
+        - Continuos Delivery is that when you need to gather all your work together without problems
+        - Continuous Deployment is to deploy on a live website for example after the Continuos Delivery and it will automatically deployed when it changes
+
+
+## Things I want to know more about
+     - how can I make a desktop apps and creating robots.
