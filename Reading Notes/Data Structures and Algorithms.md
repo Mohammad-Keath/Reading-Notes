@@ -1,3 +1,4 @@
+## Data Structures and Algorithms   .  [<sub>    Reference </sub>](https://canvas.instructure.com/courses/6888396/discussion_topics/18305221)
  1. #### What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
      -you have to conside the Big O which you consider adding, deleting, retreving and searching
  
