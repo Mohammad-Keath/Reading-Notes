@@ -1,22 +1,23 @@
 # Reading Notes
  _**this website is for adding a summary of what I will learn across this course, to use it as refrence to me later.**_ 
- - ### Node Ecosystem   .  [<sub>    link </sub>](./Reading%20Notes/Node%20Ecosystm.md)
-   
-- ### Express   .  [<sub>    link </sub>](./Reading%20Notes/Express.md)
+| - ### Node Ecosystem   .|  [<sub>    link </sub>](./Reading%20Notes/Node%20Ecosystm.md)|
+|-------------------------|-----------------------------------|   
+| - ### Express   .|  [<sub>    link </sub>](./Reading%20Notes/Express.md)|
 
 
-- ### NPM   .  [<sub>    link </sub>](./Reading%20Notes/NPM.md)
+| - ### NPM   .|  [<sub>    link </sub>](./Reading%20Notes/NPM.md)|
 
 
-- ### TDD   .  [<sub>    link </sub>](./Reading%20Notes/TDD.md)
+| - ### TDD   .|  [<sub>    link </sub>](./Reading%20Notes/TDD.md)|
  
   
-- ### CI/CD   .  [<sub>    link </sub>](./Reading%20Notes/CI-CD.md)
+| - ### CI/CD   .|  [<sub>    link </sub>](./Reading%20Notes/CI-CD.md)|
 
-- ### Data Structures and Algorithms   .  [<sub>    link </sub>](./Reading%20Notes/Data%20Structures%20and%20Algorithms.md)
+| - ### Data Structures and Algorithms   .|  [<sub>    link </sub>](./Reading%20Notes/Data%20Structures%20and%20Algorithms.md)|
 
-- ### Express REST API   .  [<sub>    link </sub>](./Reading%20Notes/Express%20REST%20API.md)
+| - ### Express REST API   .|  [<sub>    link </sub>](./Reading%20Notes/Express%20REST%20API.md)|
+| - ### Linked Lists   |[<sub>    link </sub>](./Reading%20Notes/Linked%20Lists.md)|
 
 
-## Things I want to know more about [<sub>    link </sub>](./Reading%20Notes/I-want-to-know.md)
+|## Things I want to know more about |[<sub>    link </sub>](./Reading%20Notes/I-want-to-know.md|)
     
