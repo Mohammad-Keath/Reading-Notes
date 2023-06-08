@@ -35,5 +35,4 @@
         - We usually use it when we just expect to add or remove and we don't know how much elements we will use
     - How to use Linked list?
         - we simply just create a node which contain 2 parts (value and next) and simply linked them together by next
-        
- ![photo](whenToUseLinkedList.webp)
+      
