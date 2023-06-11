@@ -10,5 +10,6 @@
 |   Data Structures and Algorithms   |  [    link ](./Reading%20Notes/Data%20Structures%20and%20Algorithms.md)|
 |   Express REST API   |  [    link ](./Reading%20Notes/Express%20REST%20API.md)|
 |   Linked Lists   |[    link ](./Reading%20Notes/Linked%20Lists.md)|
+|  SQL and noSQL  |[    link ](./Reading%20Notes/SQL%20and%20noSQL.md)|
 | Things I want to know more about |[ link ](./Reading%20Notes/I-want-to-know.md)|
     
