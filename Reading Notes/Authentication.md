@@ -9,7 +9,7 @@
         3. #### Why might you use something like Bcrypt?
            - we use bcrypt to make our website safer and to protect the users account from hacking as much as we can.
 
-    - ### Basic Auth
+     - ### Basic Auth
         1. #### What is Basic Authentication?
            - it is type of security that brawzers uses that change the username and password to a code using base-64
 
@@ -20,7 +20,7 @@
         3. #### How are username:password in Basic Auth encoded?
             - first we have to put them inside special container like (username:password) then we will call the code encode to make it as one code
     
-    - ### OWASP auth cheatsheet 
+      - ### OWASP auth cheatsheet 
         1. #### Define the authentication process to a non-technical recruiter.
            - it is the require of intering a specific page, for example if someone needs to enter a wedding party he has to have an invitation letter that allows him to enter,
            so the invitation letter is like the user name and the password, and the wedding party is like the page that you want to enter
