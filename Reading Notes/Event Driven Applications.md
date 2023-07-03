@@ -1,0 +1,9 @@
+
+- ## Event Driven Applications   .  [<sub>    Reference </sub>](https://nodejs.org/api/events.html)
+    1. #### What native Node.js module allows us to get started with Event Driven Programming?
+        - the module called EventEmitter that we require it without download any dependencies, and it allows us to make an event and emit it
+    2. #### What is the value of Object Oriented Programming used in tandem with Event Driven Programming?
+       - The Object Oriented approach promotes the idea that all behavior of an individual unit (or object) be handled from code within that unit. Using this approach, applications are built with many different units that all speak to and interact with each other.
+       - where we can make use of Event-driven programming. By registering event listeners we can actually reverse the flow of communication between our objects. Rather than on object needing to reach inside another object to trigger a function, our objects can just emit events and whichever objects are listening to those event will process it in the way they have been told to. The source of an objects behavior is now entirely contained within itself, rather than needing to be accessed by external objects.
+    3. #### Consider your knowledge of Event Driven Programming in the Web Browser, now explain to a non-technical friend how Event Driven Programming might be useful on the backend using Node.js.
+       - when you need to do a lot of tasks in the backend, knowing that there is not any buttom in the backend, So you have to use something to start the job without pressing, So that is the Event driven.
