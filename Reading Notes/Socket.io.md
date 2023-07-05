@@ -1,4 +1,3 @@
-Socket.io
 - ## Socket.io   .  [<sub>    Reference </sub>](https://canvas.instructure.com/courses/6888396/discussion_topics/18305208/submit)
 - ### Web Sockets
     1. #### What is a Web Socket?
