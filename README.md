@@ -19,5 +19,6 @@
 | Event Driven Applications  |[    link ](./Reading%20Notes/Event%20Driven%20Applications.md)|
 | Socket.io  |[    link ](./Reading%20Notes/Socket.io.md)|
 | Message Queues  |[    link ](./Reading%20Notes/Message%20Queues.md)|
+| Event Driven Architecture  |[    link ](./Reading%20Notes/Event%20Driven%20Architecture.md)|
 | Things I want to know more about |[ link ](./Reading%20Notes/I-want-to-know.md)|
     
