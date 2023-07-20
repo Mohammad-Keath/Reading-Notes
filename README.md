@@ -23,5 +23,6 @@
 | Trees  |[    link ](./Reading%20Notes/Trees.md)|
 | AWS: Cloud Servers  |[    link ](./Reading%20Notes/AWS:%20Cloud%20Servers.md)|
 | AWS: S3 and Lambda  |[    link ](./Reading%20Notes/AWS:%20S3%20and%20Lambda.md)|
+|AWS: Events |[    link ](./Reading%20Notes/AWS:%20Events.md)|
 | Things I want to know more about |[ link ](./Reading%20Notes/I-want-to-know.md)|
     
