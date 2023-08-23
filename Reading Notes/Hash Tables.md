@@ -1,0 +1,12 @@
+- ## Hash Tables   .  [<sub>    Reference </sub>](https://canvas.instructure.com/courses/6888396/discussion_topics/18305227#submit)
+- ### definition
+  - hash tables is type of Data structure that nomally use to store things that you know you will search for one of them very often 
+- ### what is it?
+  - it is just like an array and inside each array you have a key whose help you to find the bucket and value of it 
+- ### how can we make it 
+  - first we need to make a key fo it and its done by hashing the value by transfere the characters to an ASCII and sum them or multiply them
+  - then we will check if the key is already exist to create a linked list inside it in order to save them all inside it 
+- ### some terms
+  - Hash - A hash is the result of some algorithm taking an incoming string and converting it into a value that could be used for either security or some other purpose. In the case of a hashtable, it is used to determine the index of the array.
+  - Buckets - A bucket is what is contained in each index of the array of the hashtable. Each index is a bucket. An index could potentially contain multiple key/value pairs if a collision occurs.
+  - Collisions - A collision is what happens when more than one key gets hashed to the same location of the hashtable.

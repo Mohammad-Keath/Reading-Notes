@@ -29,5 +29,6 @@
 | useState Hook |[ link ](./Reading%20Notes/useState%20Hook.md)|
 | Component Lifecycle / useEffect Hook |[ link ](./Reading%20Notes/Component%20Lifecycle-useEffect%20Hook.md)|
 | Advanced State with Reducers |[ link ](./Reading%20Notes/Advanced%20State%20with%20Reducers.md)|
+| Hash Tables |[ link ](./Reading%20Notes/Hash%20Tables.md)|
 | Things I want to know more about |[ link ](./Reading%20Notes/I-want-to-know.md)|
     
