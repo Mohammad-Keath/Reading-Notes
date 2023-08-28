@@ -31,5 +31,6 @@
 | Advanced State with Reducers |[ link ](./Reading%20Notes/Advanced%20State%20with%20Reducers.md)|
 | Hash Tables |[ link ](./Reading%20Notes/Hash%20Tables.md)|
 | Context API |[ link ](./Reading%20Notes/Context%20API.md)|
+| Context API - Behaviors |[ link ](./Reading%20Notes/Context%20API%20-%20Behaviors.md)|
 | Things I want to know more about |[ link ](./Reading%20Notes/I-want-to-know.md)|
     
