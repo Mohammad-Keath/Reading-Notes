@@ -32,5 +32,7 @@
 | Hash Tables |[ link ](./Reading%20Notes/Hash%20Tables.md)|
 | Context API |[ link ](./Reading%20Notes/Context%20API.md)|
 | Context API - Behaviors |[ link ](./Reading%20Notes/Context%20API%20-%20Behaviors.md)|
+| API Integration|[ link ](./Reading%20Notes/API%20Integration.md)|
+| Login and Auth|[ link ](./Reading%20Notes/Login%20and%20Auth.md)|
 | Things I want to know more about |[ link ](./Reading%20Notes/I-want-to-know.md)|
     
