@@ -35,5 +35,6 @@
 | API Integration|[ link ](./Reading%20Notes/API%20Integration.md)|
 | Login and Auth|[ link ](./Reading%20Notes/Login%20and%20Auth.md)|
 | Graph|[ link ](./Reading%20Notes/graph.md)|
+| Application State with Redux|[ link ](./Reading%20Notes/Application%20State%20with%20Redux.md)|
 | Things I want to know more about |[ link ](./Reading%20Notes/I-want-to-know.md)|
     
