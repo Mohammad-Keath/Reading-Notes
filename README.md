@@ -38,5 +38,6 @@
 | Application State with Redux|[ link ](./Reading%20Notes/Application%20State%20with%20Redux.md)|
 | Redux - Combined Reducers|[ link ](./Reading%20Notes/Redux%20-%20Combined%20Reducers.md)|
 | Redux - Asynchronous Actions |[ link ](./Reading%20Notes/Redux%20-%20Asynchronous%20Actions.md)|
+|Redux - Additional Topics|[ link ](./Reading%20Notes/Redux%20-%20Additional%20Topics.md)|
 | Things I want to know more about |[ link ](./Reading%20Notes/I-want-to-know.md)|
     
